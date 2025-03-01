@@ -1,0 +1,21 @@
+Task i can do:
+1. Tell you current weather forecasting of any place, date and time.
+2. Entertain you with jokes, your favourite song and news. 
+3. Youtube automation- for example speak "resume"/"pause" to resume/pause the video or "mute"/"unmute" or "increase volume"/"decrease volume" wiseversa.
+4. Search anything on wikipedia, google and youtube- speak "youtube/google/wikipedia [what you want to search]".
+5. Read any book or pdf- simply speak "read a pdf".
+6. Translate any english sentence to any language- speak "translate [word to translated]".
+7. Tell you your internet speed and battery level- speak "tell me internet speed/battery status".
+8. Open/close windows applications and any website- speak "open instagram.com" or "open ms word" and "close 1 tab/2 tab/3 tab /4 tab or "close ms word".
+9. Tell you inspiration and positive qoutes.
+10 Solve maths equation- speak "calculate [equation]".
+11. Send whatsapp messages- speak "whatsapp" and can switch tabs- speak "switch tab".
+12. Tell you your live location, any place location and google direction- speak "where i am", speak "where is [place name]/ tell me the direction of [placename]".
+13. Set an alarm, Schedule your day and show your schedule- speak "set an alarm", speak "schedule my day/ show my schedule".
+14. Focus mode, your Focus progress(all distractive sites will be closed for a given time)- speak "turn on focus mode/show me focus progress".
+15. Remember anything you told me to remember- speak "remember that [to be remembered by foxxy]" or speak "what did i told you to remember".
+16. Screenshot and click your photo- speak "take a screenshot" or speak "click my photo".
+17. Play game with you(stone paper scissor or odd even)- speak "let's play a game".
+18. Shutdown/restart/sleep your system- speak "Shutdown/restart/sleep the system".
+19. To put me into sleep/ wake me up- speak "go to sleep" or speak "power on".
+20. To exit foxxy- speak "good bye"/"exit"
