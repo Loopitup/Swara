@@ -12,12 +12,12 @@ def speak(audio):
     engine.runAndWait()
 
 def latestnews():
-    apidict = {"business":"https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=951efc2b0b36432690e621d4d02128a0",
-                "science":"https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=951efc2b0b36432690e621d4d02128a0",
-                "sports":"https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=951efc2b0b36432690e621d4d02128a0",
-                "technology":"https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=951efc2b0b36432690e621d4d02128a0",
-                "entertainment":"https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=951efc2b0b36432690e621d4d02128a0",
-                "health":"https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=951efc2b0b36432690e621d4d02128a0"}
+    apidict = {"business":"https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=apikey",
+                "science":"https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=apikey",
+                "sports":"https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=apikey",
+                "technology":"https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=apikey",
+                "entertainment":"https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=apikey",
+                "health":"https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=apikey"}
     
     content = None
     url = None
