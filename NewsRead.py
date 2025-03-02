@@ -22,7 +22,7 @@ def latestnews():
     content = None
     url = None
     print("Which field news do you want, [business], [science], [sports], [technology], [entertainment], [health]")
-    speak("Which field news do you want, [business], [science], [sports], [technology], [entertainment], [
+    speak("Which field news do you want, [business], [science], [sports], [technology], [entertainment], [health]")
     field = input("Enter the field:- ")
     for key, value in apidict.items():
         if key.lower() in field.lower():
